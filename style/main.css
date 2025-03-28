@@ -209,9 +209,9 @@ img {
     flex-direction: column;
     justify-content: center;
 }
-.skills__grid-content {
+/* .skills__grid-content {
   
-}
+} */
 .writing img {
     padding: 0 0 0 119px;
 }
@@ -334,9 +334,9 @@ img {
 
 /* Contact block */
 
-.contact {
+/* .contact {
 
-}
+} */
 .contact::after {
     content: '';
     width: 1340px;
